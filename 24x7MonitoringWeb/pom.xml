@@ -9,7 +9,7 @@
 	<name>24x7 Monitoring Web</name>
 
 	<properties>
-		<springframework.version>3.2.2.RELEASE</springframework.version>
+		<springframework.version>5.2.3.RELEASE</springframework.version>
 		<tiles.version>2.1.4</tiles.version>
 		<springwebflow.version>2.2.1.RELEASE</springwebflow.version>
 	</properties>
