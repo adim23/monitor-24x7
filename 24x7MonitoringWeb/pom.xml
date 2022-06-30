@@ -11,7 +11,7 @@
 	<properties>
 		<springframework.version>5.2.3.RELEASE</springframework.version>
 		<tiles.version>2.1.4</tiles.version>
-		<springwebflow.version>2.2.1.RELEASE</springwebflow.version>
+		<springwebflow.version>2.4.6.RELEASE</springwebflow.version>
 	</properties>
 
 	<dependencies>
